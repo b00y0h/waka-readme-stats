@@ -52,6 +52,22 @@ async def get_waka_time_stats(repositories: Dict, commit_dates: Dict) -> str:
             time_zone = data["data"]["timezone"]
             stats += f"🕑︎ {FM.t('Timezone')}: {time_zone}\n\n"
 
+        if EM.SHOW_CATEGORIES:
+            DBM.i("Adding categories breakdown...")
+            categories = data["data"].get("categories", [])
+            if categories:
+                total_secs = sum(c["total_seconds"] for c in categories)
+                hours, remainder = divmod(int(total_secs), 3600)
+                mins = remainder // 60
+                total_text = f"{hours} hrs {mins} mins" if hours else f"{mins} mins"
+
+                breakdown = ", ".join(
+                    f"{c['name']}: {c['text']}"
+                    for c in sorted(categories, key=lambda x: x["total_seconds"], reverse=True)
+                    if c["total_seconds"] > 0
+                )
+                stats += f"⏱️ {FM.t('Total Time')}: {total_text} ({breakdown})\n\n"
+
         if EM.SHOW_LANGUAGE:
             DBM.i("Adding user top languages info...")
             lang_list = no_activity if len(data["data"]["languages"]) == 0 else make_list(data["data"]["languages"])

@@ -1,5 +1,5 @@
 {
-    "en": {
+  "en": {
     "Monday": "Monday",
     "Tuesday": "Tuesday",
     "Wednesday": "Wednesday",
@@ -34,7 +34,8 @@
     "private repository": "%d Private Repository",
     "private repositories": "%d Private Repositories",
     "I am an Early": "I'm an Early 🐤",
-    "I am a Night": "I'm a Night 🦉"
+    "I am a Night": "I'm a Night 🦉",
+    "Total Time": "Total Time"
   },
   "fr": {
     "Monday": "Lundi",
@@ -71,7 +72,8 @@
     "private repository": "%d dépot privé",
     "private repositories": "%d dépots privés",
     "I am an Early": "Je suis un 🐤 du matin",
-    "I am a Night": "Je suis un 🦉 de nuit"
+    "I am a Night": "Je suis un 🦉 de nuit",
+    "Total Time": "Total Time"
   },
   "bn": {
     "Monday": "সোমবার",
@@ -108,7 +110,8 @@
     "private repository": "%d টি ব্যক্তিগত Repository",
     "private repositories": "%d টি ব্যক্তিগত Repositories",
     "I am an Early": "আমি হলাম সকালের 🐤",
-    "I am a Night": "আমি হলাম রাতের 🦉"
+    "I am a Night": "আমি হলাম রাতের 🦉",
+    "Total Time": "Total Time"
   },
   "it": {
     "Monday": "Lunedì",
@@ -145,7 +148,8 @@
     "private repository": "%d Repository privata",
     "private repositories": "%d Repositories private",
     "I am an Early": "Sono un mattiniero 🐤",
-    "I am a Night": "Sono un notturno 🦉"
+    "I am a Night": "Sono un notturno 🦉",
+    "Total Time": "Total Time"
   },
   "zh": {
     "Monday": "星期一",
@@ -182,7 +186,8 @@
     "private repository": "%d 个私人仓库",
     "private repositories": "%d 个私人仓库",
     "I am an Early": "我是早鸟 🐤",
-    "I am a Night": "我是夜猫 🦉"
+    "I am a Night": "我是夜猫 🦉",
+    "Total Time": "Total Time"
   },
   "zh_TW": {
     "Monday": "星期一",
@@ -219,7 +224,8 @@
     "private repository": "%d 私人倉庫",
     "private repositories": "%d 私人倉庫",
     "I am an Early": "我是早起的 🐤",
-    "I am a Night": "我是夜貓子 🦉"
+    "I am a Night": "我是夜貓子 🦉",
+    "Total Time": "Total Time"
   },
   "ar": {
     "Monday": "الأثنين",
@@ -256,7 +262,8 @@
     "private repository": "%d المستودع الخاص",
     "private repositories": "%d المستودعات الخاصة",
     "I am an Early": "أنا كالعصفور 🐤 في الصباح",
-    "I am a Night": "أنا كالبومة 🦉 في الليل"
+    "I am a Night": "أنا كالبومة 🦉 في الليل",
+    "Total Time": "Total Time"
   },
   "pt": {
     "Monday": "Segunda-Feira",
@@ -293,7 +300,8 @@
     "private repository": "%d Repositório Privado",
     "private repositories": "%d Repositórios Privados",
     "I am an Early": "Eu sou diurno 🐤",
-    "I am a Night": "Eu sou noturno 🦉"
+    "I am a Night": "Eu sou noturno 🦉",
+    "Total Time": "Total Time"
   },
   "pl": {
     "Monday": "Poniedziałek",
@@ -330,7 +338,8 @@
     "private repository": "%d prywatne repozytorium",
     "private repositories": "%d prywatne repozytoria",
     "I am an Early": "Jestem rannym 🐤",
-    "I am a Night": "Jestem nocną 🦉"
+    "I am a Night": "Jestem nocną 🦉",
+    "Total Time": "Total Time"
   },
   "es": {
     "Monday": "Lunes",
@@ -367,7 +376,8 @@
     "private repository": "%d Repositorio Privado",
     "private repositories": "%d Repositorios Privados",
     "I am an Early": "Soy diurno 🐤",
-    "I am a Night": "Soy nocturno 🦉"
+    "I am a Night": "Soy nocturno 🦉",
+    "Total Time": "Total Time"
   },
   "gl": {
     "Monday": "Luns",
@@ -404,7 +414,8 @@
     "private repository": "%d Repositorio Privado",
     "private repositories": "%d Repositorios Privados",
     "I am an Early": "Sonche Jalo 🐤",
-    "I am a Night": "Sonche Moucho 🦉"
+    "I am a Night": "Sonche Moucho 🦉",
+    "Total Time": "Total Time"
   },
   "ko": {
     "Monday": "월요일",
@@ -441,7 +452,8 @@
     "private repository": "%d개의 Private Repository를 만들었어요.",
     "private repositories": "%d개의 Private Repository를 만들었어요.",
     "I am an Early": "저는 아침형 인간이에요. 🐤",
-    "I am a Night": "저는 저녁형 인간이에요. 🦉"
+    "I am a Night": "저는 저녁형 인간이에요. 🦉",
+    "Total Time": "Total Time"
   },
   "tr": {
     "Monday": "Pazartesi",
@@ -478,7 +490,8 @@
     "private repository": "%d Özel Depo",
     "private repositories": "%d Özel Depolar",
     "I am an Early": "Sabah 🐤'yum",
-    "I am a Night": "Gece 🦉'yum"
+    "I am a Night": "Gece 🦉'yum",
+    "Total Time": "Total Time"
   },
   "ru": {
     "Monday": "Понедельник",
@@ -515,7 +528,8 @@
     "private repository": "%d Приватный репозиторий",
     "private repositories": "%d Приватных репозиториев",
     "I am an Early": "Я утренняя 🐤",
-    "I am a Night": "Я ночная 🦉"
+    "I am a Night": "Я ночная 🦉",
+    "Total Time": "Total Time"
   },
   "de": {
     "Monday": "Montag",
@@ -552,7 +566,8 @@
     "private repository": "%d privates Repository",
     "private repositories": "%d private Repositories",
     "I am an Early": "Ich bin ein Frühaufsteher 🐤",
-    "I am a Night": "Ich bin eine Nachteule 🦉"
+    "I am a Night": "Ich bin eine Nachteule 🦉",
+    "Total Time": "Total Time"
   },
   "id": {
     "Monday": "Senin",
@@ -589,7 +604,8 @@
     "private repository": "%d Repositori pribadi",
     "private repositories": "%d Repositori pribadi",
     "I am an Early": "Aku orangnya diurnal 🐤",
-    "I am a Night": "Aku orangnya nokturnal 🦉"
+    "I am a Night": "Aku orangnya nokturnal 🦉",
+    "Total Time": "Total Time"
   },
   "ca": {
     "Monday": "Dilluns",
@@ -626,7 +642,8 @@
     "private repository": "%d Repositori privats",
     "private repositories": "%d Repositoris privats",
     "I am an Early": "Sóc diürn 🐤",
-    "I am a Night": "Sóc nocturn 🦉"
+    "I am a Night": "Sóc nocturn 🦉",
+    "Total Time": "Total Time"
   },
   "vn": {
     "Monday": "Thứ Hai",
@@ -663,7 +680,8 @@
     "private repository": "%d dự án riêng tư",
     "private repositories": "%d dự án riêng tư",
     "I am an Early": "Tôi không phải cú đêm 🐤",
-    "I am a Night": "Tôi là cú đêm 🦉"
+    "I am a Night": "Tôi là cú đêm 🦉",
+    "Total Time": "Total Time"
   },
   "uk": {
     "Monday": "Понеділок",
@@ -700,7 +718,8 @@
     "private repository": "%d Приватний репозиторій",
     "private repositories": "%d Приватных репозиторіїв",
     "I am an Early": "Я рання 🐤",
-    "I am a Night": "Я нічна 🦉"
+    "I am a Night": "Я нічна 🦉",
+    "Total Time": "Total Time"
   },
   "fa": {
     "Monday": "دوشنبه",
@@ -737,9 +756,10 @@
     "private repository": "%d ریپوزیتوری‌ شخصی",
     "private repositories": "%d ریپوزیتوری‌های شخصی",
     "I am an Early": "من یک 🐤 سحر‌خیزم",
-    "I am a Night": "من یک 🦉 شبم"
+    "I am a Night": "من یک 🦉 شبم",
+    "Total Time": "Total Time"
   },
-  "sw" : {
+  "sw": {
     "Monday": "Jumatatu",
     "Tuesday": "Jumanne",
     "Wednesday": "Jumatano",
@@ -773,9 +793,10 @@
     "public repositories": "%d Ripozitori za umma",
     "private repository": "%d Ripozitori ya kibinafsi",
     "private repositories": "%d Ripozitori za kibinafsi",
-    "I am an Early" : "Mimi ni mapema 🐤",
-    "I am a Night" : "Mimi ni usiku 🦉"
-},
+    "I am an Early": "Mimi ni mapema 🐤",
+    "I am a Night": "Mimi ni usiku 🦉",
+    "Total Time": "Total Time"
+  },
   "hi": {
     "Monday": "सोमवार",
     "Tuesday": "मंगलवार",
@@ -811,6 +832,7 @@
     "private repository": "%d निजी रिपॉजिटरी",
     "private repositories": "%d निजी रिपॉजिटरीज़",
     "I am an Early": "मैं एक Early 🐤 हूँ",
-    "I am a Night": "मैं एक Night 🦉 हूँ"
+    "I am a Night": "मैं एक Night 🦉 हूँ",
+    "Total Time": "Total Time"
   }
 }

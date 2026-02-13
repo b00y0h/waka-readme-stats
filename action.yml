@@ -162,6 +162,11 @@ inputs:
     description: "Style for the badge maker (flat, flat-square, plastic, for-the-badge, social)"
     default: "flat"
 
+  SHOW_CATEGORIES:
+    required: false
+    description: "Show categories breakdown including AI coding time in total"
+    default: "True"
+
   DEBUG_LOGGING:
     required: false
     description: "Whether to enable action debug logging"
